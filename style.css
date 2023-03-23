@@ -1,0 +1,16 @@
+h1{
+    color:rgb(8, 2, 41);
+    font-size:44px;
+    text-align: center;
+}
+
+div#imagem{
+    text-align: center;
+    }
+body{
+    background-image: url(images/NIKE.png);
+    }
+p,ol,ul,h5,table{
+    color: black;
+    font-weight: bold;
+}
